@@ -1,0 +1,31 @@
+[
+    {
+    "type": "Work Project",
+    "title": "Invoicing & Payment Gateway Integration",
+    "description": "Integrating Billplz with EjenGO System for easier payments, and integrating Xero for subscription invoicing.",
+    "technologies": ["Vue.js", "Laravel", "Axios", "Bootstrap", "PHP", "MySQL"],
+    "image": "subscription-view.png"
+  },
+  {
+    "type": "Work Project",
+    "title": "EjenGO System Upgrade",
+    "description": "Improvising codebase to make it more scalable, as well as improvising UI/UX, making it more modern without neglecting UI/UX aspects.",
+    "technologies": ["Vue.js", "Laravel", "Axios", "Bootstrap", "PHP", "MySQL"],
+    "image": "manage-order.png" 
+  },
+  {
+    "type": "Internship Project",
+    "title": "Runcloud Calculator",
+    "description": "A system that allows users to calculate and estimate server specifications based on their requirements.",
+    "technologies": ["Vue.js", "Laravel"],
+    "image": "rc-calc.png"
+  },
+  {
+    "type": "Final Year Project",
+    "title": "Kuantan Parking System",
+    "description": "A parking system that allows users to park their vehicles in a convenient and efficient manner.",
+    "technologies": ["Flutter", "Dart"],
+    "github": "https://github.com/syahirahmarsan/kps_v3",
+    "image": "fyp.png"
+  }
+]

@@ -1,0 +1,35 @@
+[
+	{
+		"company": "Ejen2u International",
+		"title": "Full Stack Developer",
+		"date": "Sept 2023 - Present",
+		"description": [
+			"Responsible for development of new feature for the existing system.",
+			"Fix any system issues or bugs that arise.",
+            "Responsible in customizing system according to clients' requests.",
+            "Worked with third-party APIs to enhance system features.",
+            "Developed and integrated RESTful APIs to connect frontend interfaces with backend services."
+		]
+	},
+	{
+		"company": "Ejen2u International",
+		"title": "Frontend Developer",
+		"date": "Sept 2022 - Aug 2023",
+		"description": [
+			"Responsible for development of new feature for the existing system.",
+			"Collaborate effectively with product team for efficient output.",
+			"Ensure seamless, clean, intuitive and user-friendly user interface (UIUX) across all platforms.",
+			"Fix any system issues or bugs that arise."
+		]
+	},
+	{
+		"company": "Runcloud",
+		"title": "Software Engineer Intern",
+		"date": "Mar 2022 - Aug 2022",
+		"description": [
+            "Revolved around web technologies, server connectivity, and architecture.",
+            "Designed and developed a feature to calculate and estimate server specifications (Laravel & Vue.js).",
+            "Learned the basics of Microsoft Azure and tried the services provided, such as creating VMs, VNets, and App Services."
+		]
+	}
+]
